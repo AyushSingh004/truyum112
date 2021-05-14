@@ -1,0 +1,61 @@
+th,td
+{
+   padding-right: 40px;
+}
+.pr-40
+{
+   padding-right: 40px;
+}
+.table-admin
+{
+    margin-left: 10%;
+}
+h3{
+    text-align: left;
+}
+.left-aligned
+{
+    text-align: left;
+}
+.right-aligned
+{
+    text-align: right;
+}
+.center-aligned
+{
+    text-align: center;
+}
+.bold
+{
+    font-weight: bold;
+}
+.footer
+{
+    background-color: #BFBFBf;
+    color: black;
+    padding: 20px;
+}
+.col-black
+{
+    color: black;
+}
+.logo
+{
+    margin-left: 30px;
+    width: 40px;
+}
+#itemVisibility
+{
+    visibility: hidden;
+}
+.col-green
+{
+    color:green;
+}
+.notif
+{
+    text-align: left;
+    color: #17C4A2;
+    font-weight: bold;
+}
+
